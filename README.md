@@ -33,3 +33,14 @@ A base b1
 A base b2
 ### OUTPUT-FORMAT 
 A number of base b2 equal in value to n of base b1.
+### ANY BASE ADDITION
+### PROBLEM
+1. You are given a base b.
+2. You are given two numbers n1 and n2 of base b.
+3. You are required to add the two numbes and print their value in base b.
+### INPUT-FORMAT
+A base b
+A number n1
+A number n2
+### OUTPUT-FORMAT 
+A number representing the sum of n1 and n2 in base b
